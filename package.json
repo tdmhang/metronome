@@ -2,6 +2,7 @@
   "name": "metronome",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tdmhang.github.io/metronome",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
